@@ -2,7 +2,7 @@
 
 ## 🔨 Funcionalidades do projeto
 
-Página que o usuário insere um tarefa ou estudo com um determinado tempo, essa tarefa entra em uma lista onde pode selecionar o estudo e iniciar o timer.
+Página que o usuário insere um tarefa(estudo) com um determinado tempo, essa tarefa entra em uma lista onde o usuário seleciona a tarefa e inicia a regressiva do cronômetro.
 
 ## ✔️ Tecnologias utilizadas
 
